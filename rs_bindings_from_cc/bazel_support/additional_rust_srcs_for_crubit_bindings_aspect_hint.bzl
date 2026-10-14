@@ -79,7 +79,6 @@ load(
 visibility([
     # <internal link> start
     "//examples/...",
-    "//google_internal/carcinize/...",
     "//rs_bindings_from_cc/...",
     "//support/...",
     # <internal link> end
